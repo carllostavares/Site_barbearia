@@ -12,7 +12,7 @@ body{
 	position: relative;
 	width: 940px;
 	margin: 0 auto;
-	height: 200px;
+	height: 150px;
 }
 
 nav {
@@ -298,8 +298,9 @@ um degrader com as cores de fundo*/
 }
 
 .imglogo {
-	max-width: 200px; 
-	max-height: 250px 
+	max-width: 150px; 
+	max-height: 200px 
+	
 }
 
 .imgLogoInferior{
