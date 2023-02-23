@@ -12,6 +12,7 @@ body{
 	position: relative;
 	width: 940px;
 	margin: 0 auto;
+	height: 200px;
 }
 
 nav {
@@ -91,7 +92,7 @@ footer {
 }
 
 .copyright {
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 13px;
 	margin: 20px 0 0;
 }
@@ -294,4 +295,14 @@ um degrader com as cores de fundo*/
 
 		width:100%;
 	}
+}
+
+.imglogo {
+	max-width: 200px; 
+	max-height: 250px 
+}
+
+.imgLogoInferior{
+	max-width: 90px; 
+	max-height: 900px 
 }
